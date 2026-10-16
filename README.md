@@ -8,7 +8,7 @@ propia imagen. Todo en modo Objeto y la pieza original no se toca.
 - Proyección para cualquier forma sin costuras, o envolvente para piezas redondas.
 - La base de apoyo queda plana.
 
-Instalar: Editar → Preferencias → Complementos → Instalar desde disco → `surface_texture-1.0.1.zip`.
+Instalar: Editar → Preferencias → Complementos → Instalar desde disco → `surface_texture-1.0.2.zip`.
 Guía completa en `surface_texture/LEEME.md`.
 
 ## Licencia
